@@ -1,0 +1,7 @@
+{
+  "name": "mux-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "@mux/mux-node": "^3.6.0"
+  }
+}
